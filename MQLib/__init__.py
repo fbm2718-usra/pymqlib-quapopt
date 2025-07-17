@@ -13,7 +13,7 @@ from numbers import Number
 import numpy as np
 import os
 import scipy
-from quapopt.additional_packages.pymqlib import _MQLib
+import _MQLib
 
 
 class Instance:
